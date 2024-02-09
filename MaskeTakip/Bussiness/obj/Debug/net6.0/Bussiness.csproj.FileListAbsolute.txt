@@ -1,0 +1,15 @@
+C:\VS\VisualStudio\MaskeTakip\Bussiness\bin\Debug\net6.0\Bussiness.deps.json
+C:\VS\VisualStudio\MaskeTakip\Bussiness\bin\Debug\net6.0\Bussiness.dll
+C:\VS\VisualStudio\MaskeTakip\Bussiness\bin\Debug\net6.0\Bussiness.pdb
+C:\VS\VisualStudio\MaskeTakip\Bussiness\bin\Debug\net6.0\Entities.dll
+C:\VS\VisualStudio\MaskeTakip\Bussiness\bin\Debug\net6.0\Entities.pdb
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.csproj.AssemblyReference.cache
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfoInputs.cache
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfo.cs
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CopyComplete
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.dll
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\refint\Bussiness.dll
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\Bussiness.pdb
+C:\VS\VisualStudio\MaskeTakip\Bussiness\obj\Debug\net6.0\ref\Bussiness.dll
